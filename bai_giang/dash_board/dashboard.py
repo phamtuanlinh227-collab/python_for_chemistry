@@ -29,3 +29,7 @@ ax2.legend()
 # 3. TINH CHỈNH CUỐI CÙNG
 plt.tight_layout() # Lệnh này cực hay: Tự động chỉnh khoảng cách để chữ không bị đè lên nhau
 plt.show()
+
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

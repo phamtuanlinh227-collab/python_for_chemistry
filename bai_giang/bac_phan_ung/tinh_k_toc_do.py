@@ -55,3 +55,6 @@ elif r_squared > 0.95:
     print("=> Số liệu ổn, chấp nhận được. ✅")
 else:
     print("=> Số liệu hơi xấu, coi chừng bị bắt làm lại thí nghiệm! ⚠️")
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

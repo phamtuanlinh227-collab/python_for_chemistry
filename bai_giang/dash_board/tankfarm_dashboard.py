@@ -68,6 +68,6 @@ plt.title("THEO DÕI QUÁ TRÌNH NẠP ĐẦY TANK FARM")
 plt.xlabel("Thời gian (Phút)")
 plt.ylabel("Thể tích (Lít)")
 plt.grid(True)
-plt.legend() # Hiện chú thích
+plt.legend() 
 
-plt.show() # Bùm! Hiện hình
+plt.show() 

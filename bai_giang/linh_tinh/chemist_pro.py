@@ -34,3 +34,7 @@ while True:
         # Mẹo: Không in lỗi 'e' dài dòng nữa cho người dùng đỡ sợ, chỉ báo sai thôi.
 
 print("--- Chương trình đã tắt ---")
+
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

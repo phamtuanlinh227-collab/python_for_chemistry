@@ -68,3 +68,7 @@ st.download_button(
     mime='text/csv',
     help="Bấm vào đây để tải dữ liệu về máy tính"
 )
+
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

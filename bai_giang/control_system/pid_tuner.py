@@ -114,3 +114,7 @@ with col2:
         st.error("⚠️ CẢNH BÁO: Vọt lố quá cao! Tăng Kd hoặc giảm Ki.")
     elif abs(temps[-1] - setpoint) < 1.0:
         st.success("✅ QUÁ ĐỈNH: Hệ thống ổn định!")
+
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

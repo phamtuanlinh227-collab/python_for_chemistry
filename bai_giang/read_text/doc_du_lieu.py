@@ -34,3 +34,6 @@ try:
 
 except FileNotFoundError:
     print("❌ Lỗi: Không tìm thấy file 'data_nhiet_do.txt' đâu cả!")
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

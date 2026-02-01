@@ -63,3 +63,6 @@ for ten, smiles in tu_thuoc_moi.items():
     if mol:
         ket_luan = check_lipinski(mol)
         print(f"{ten:<25} | {ket_luan}")
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

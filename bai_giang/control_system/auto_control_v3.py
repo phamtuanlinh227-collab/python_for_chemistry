@@ -65,3 +65,6 @@ plt.ylabel("Nhiệt độ (°C)")
 plt.legend()
 plt.grid(True, alpha=0.3)
 plt.show()
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

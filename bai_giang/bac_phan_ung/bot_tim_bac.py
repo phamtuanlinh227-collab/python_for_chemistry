@@ -65,3 +65,6 @@ print("-" * 30)
 
 plt.tight_layout()
 plt.show()
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation

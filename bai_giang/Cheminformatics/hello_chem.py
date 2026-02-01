@@ -17,3 +17,6 @@ img.show()
 
 # Nếu muốn lưu lại thành file ảnh thì dùng dòng dưới:
 # img.save("cafein.png")
+
+# Code structure supported by AI, customized by Tuan Linh
+# Project: Chemistry Automation
