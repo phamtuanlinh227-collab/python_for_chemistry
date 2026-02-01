@@ -1,0 +1,4 @@
+BÁO CÁO PHÂN TÍCH PHẢN ỨNG CHẤT K
+Nồng độ ban đầu: 2.0 mol/L
+Nồng độ cuối cùng: 0.5 mol/L
+Thời gian phản ứng: 120.0 giây

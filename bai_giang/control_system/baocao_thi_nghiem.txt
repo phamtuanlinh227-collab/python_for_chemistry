@@ -1,0 +1,11 @@
+=== BÁO CÁO KẾT QUẢ THÍ NGHIỆM ===
+Khối lượng lý thuyết: 10.0 g
+------------------------------
+✅ Mẫu 8.5g -> Hiệu suất: 85.00%
+✅ Mẫu 9.2g -> Hiệu suất: 92.00%
+⚠️ Mẫu 1.0g: BỊ LỖI (Bỏ qua)
+✅ Mẫu 9.5g -> Hiệu suất: 95.00%
+✅ Mẫu 8.9g -> Hiệu suất: 89.00%
+------------------------------
+📈 Hiệu suất trung bình: 90.25%
+🏆 Cao nhất: 95.00%
