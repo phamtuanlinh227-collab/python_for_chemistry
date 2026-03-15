@@ -1,0 +1,23 @@
+# === Python Junk ===
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# === Data & Temporary Files ===
+# Chặn các file kết quả tạm hoặc file csv quá nặng
+*.csv
+*.xlsx
+*.log
+*.tmp
+
+# === Chemoinformatics & Tools ===
+# Chặn các file output từ RDKit hoặc các phần mềm mô phỏng
+*.sdf
+*.mol2
+.ipynb_checkpoints/
+
+# === System Files ===
+.DS_Store
+Thumbs.db
