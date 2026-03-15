@@ -1,4 +1,0 @@
-ID,Ten_Chat,SMILES,Khối Lượng,LogP,Đánh Giá
-1,Aspirin,CC(=O)Oc1ccccc1C(=O)O,180.2,1.3,✅ Đạt
-2,Ibuprofen,CC(C)Cc1ccc(cc1)C(C)C(=O)O,206.3,3.1,✅ Đạt
-3,Vitamin C,OCC(O)C1OC(=O)C(O)=C1O,176.1,-1.4,✅ Đạt
